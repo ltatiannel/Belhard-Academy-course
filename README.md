@@ -7,5 +7,5 @@ def sum_numbers(numbers):
     return sum(numbers)
 # Пример:
 numbers = [1, 2, 3, 4, 5]
-result = sum_numbers(numbers)
+result = sum(numbers)
 print(result)
